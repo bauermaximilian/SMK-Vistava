@@ -1,0 +1,32 @@
+{
+   "moduleFileName": "smk/SourceSMK.js",
+   "configuration": {
+      "links": [
+         { 
+            "label": "All artwork",
+            "query": "*",
+            "hidden": true
+         },
+         {
+            "label": "Jens Juel",
+            "query": "Jens Juel",
+            "hidden": true
+         },
+         {
+            "label": "Christoffer Wilhelm Eckersberg",
+            "query": "Christoffer Wilhelm Eckersberg",
+            "hidden": true
+         },
+         {
+            "label": "Martinus Rorbye",
+            "query": "Martinus Rorbye",
+            "hidden": true
+         },
+         {
+            "label": "Search...",
+            "query": "@userinput",
+            "hidden": true
+         }
+      ]
+   }
+}
