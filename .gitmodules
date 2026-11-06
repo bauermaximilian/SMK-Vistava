@@ -1,0 +1,3 @@
+[submodule "Dependencies/vistava.js"]
+	path = Dependencies/vistava.js
+	url = git@github.com:bauermaximilian/vistava.js.git
