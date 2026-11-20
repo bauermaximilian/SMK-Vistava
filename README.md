@@ -13,12 +13,12 @@ The National Gallery of Denmark digitized its enormous collection of art and mad
 Assuming you have [Vistava](https://vistava.net) set up already, installing the extension can be done in a few simple steps:
 
 1. Download the extension package from the [Releases tab](https://github.com/bauermaximilian/SMK-Vistava/releases)
-2. Open Vistava and click on the "Extensions" button (with the "puzzle piece" symbol) in the title bar, then on "Install extension..." and confirm the security warning
+2. Open Vistava and click on the menu button (the symbol with the three horizontal lines) in the title bar, then on "Install extension..." and confirm the security warning
 3. In the dialog, select the extension package file you downloaded earlier and confirm
 4. Optional: To enable the search option or shortcuts to specific artists, click "Yes" in the dialog and enable (or add) specific shortcuts in the configuration file
-5. Restart Vistava
+5. Restart/refresh Vistava
 
-The extension can now be accessed through the extension menu under the "SMK" option.
+The extension can now be accessed on the home screen under the "National Gallery of Denmark" item.
 
 ## Troubleshooting
 
