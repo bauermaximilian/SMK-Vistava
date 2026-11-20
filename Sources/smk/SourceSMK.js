@@ -168,7 +168,7 @@ class QueryRetriever extends SourceSegmentedContentRetriever {
          thumbnailUrl: artwork.image_thumbnail,
          mediaType: "image/jpeg",
          mediaUrl: artwork.image_native,
-         sourceUrl: artwork.frontend_url
+         sourceUrl: artwork.frontend_url.replace("/artwork/", "/en/artwork/")
       }
    };
 
