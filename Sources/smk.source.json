@@ -1,6 +1,7 @@
 {
    "moduleFileName": "smk/SourceSMK.js",
    "configuration": {
+      "name": "National Gallery of Denmark",
       "links": [
          { 
             "label": "All artwork",
